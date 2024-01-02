@@ -16,9 +16,9 @@ const aboutMe = {
     gender: "Male",
     location: "Buenos Aires, Argentina",
   },
-  code_skills: ["HTML5", "CSS3", "JavaScript"],
+  code_skills: ["HTML", "CSS", "JavaScript"],
   technologies: ["Node.js", "Express.js", "EJS", "React.js", "MySQL"],
-  tools: ["VSCode", "Git", "GitHub", "Postman", "Figma", "Prepros"],
+  tools: ["Visual Studio", "VSCode", "Git", "GitHub", "Postman", "Figma", "Prepros"],
 };
 ```
 <!--
