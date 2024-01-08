@@ -2,9 +2,10 @@
   <a href="https://rysted.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Redressed&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rysted%2C+a+web+developer;Check+out+my+portfolio" alt="Typing SVG" /></a>
 </div>
 
-# :man_technologist: My [Portfolio](https://rysted.netlify.app/) 🌐
+# :man_technologist: My [Portfolio <-- 🌐](https://rysted.netlify.app/)
+<!--
 <img src="https://avatars.githubusercontent.com/u/92615525?v=4" width=150 style="display:inline;">
-
+-->
 ![](https://komarev.com/ghpvc/?username=Rysted&color=blueviolet&label=PROFILE+VIEWS)
 
 
