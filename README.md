@@ -18,7 +18,7 @@ const aboutMe = {
     location: "Buenos Aires, Argentina",
   },
   code_skills: ["HTML", "CSS", "JavaScript", "TypeScript", "MySQL"],
-  technologies: ["Node.js", "Express.js", "EJS", "React.js"],
+  technologies: ["Node.js", "Express.js", "Sequelize", "EJS", "React.js"],
   tools: ["Visual Studio", "VSCode", "Git", "GitHub", "Postman", "Figma", "Prepros"],
 };
 ```
