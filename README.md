@@ -23,6 +23,7 @@ const aboutMe = {
 };
 ```
 
+<!--
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rysted&card_width=500px&layout=compact&theme=vision-friendly-dark"/>
-
+-->
 
