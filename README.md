@@ -3,9 +3,9 @@
 </div>
 
 # :man_technologist: My [Portfolio <-- 🌐](https://rysted.netlify.app/)
-<!--
-<img src="https://avatars.githubusercontent.com/u/92615525?v=4" width=150 style="display:inline;">
--->
+
+- The information on my GitHub profile is relative, as some of my repositories are private.
+
 ![](https://komarev.com/ghpvc/?username=Rysted&color=blueviolet&label=PROFILE+VIEWS)
 
 
@@ -22,11 +22,7 @@ const aboutMe = {
   tools: ["Visual Studio", "VSCode", "Git", "GitHub", "Postman", "Figma", "Prepros"],
 };
 ```
+<img src="https://wakatime.com/share/@Rysted/6677472a-1a95-4219-9e51-8c54dccf1285.svg">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rysted&card_width=500px&layout=compact&theme=vision-friendly-dark"/>
--->
+- I integrated Wakatime starting from 2024 to keep a more accurate track of my programming time.
 
