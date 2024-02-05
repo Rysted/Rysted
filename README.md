@@ -17,9 +17,14 @@ const aboutMe = {
     gender: "Male",
     location: "Buenos Aires, Argentina",
   },
-  code_skills: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "TypeScript", "MySQL"],
-  technologies: ["Node.js", "Express.js", "Sequelize", "EJS", "React.js"],
-  tools: ["Visual Studio", "VSCode", "Git", "GitHub", "Postman", "Figma", "Prepros"],
+  tools: ["Postman", "Prepros"],
+
+  Languages: ["Typescript", "Javascript", "HTML", "CSS"],
+  Styling: ["TailwindCSS", "Bootstrap"],
+  Backend: ["Node.js", "Express.js", "EJS", "MySQL", "Sequelize"],
+  Framework: ["React"],
+  Tools: ["Postman", "Prepros", "Jira", "Git", "Github"],
+  Design: ["Figma", "Miro"],
 };
 ```
 <img src="https://wakatime.com/share/@Rysted/6677472a-1a95-4219-9e51-8c54dccf1285.svg">
