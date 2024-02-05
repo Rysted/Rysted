@@ -4,7 +4,7 @@
 
 # :man_technologist: My [Portfolio <-- 🌐](https://rysted.netlify.app/)
 
-- The information on my GitHub profile is relative, as some of my repositories are private.
+- The information on my GitHub profile is relative, as not everything we do is uploaded.
 
 ![](https://komarev.com/ghpvc/?username=Rysted&color=blueviolet&label=PROFILE+VIEWS)
 
