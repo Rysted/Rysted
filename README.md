@@ -4,7 +4,7 @@
 
 # :man_technologist: My [Portfolio <-- 🌐](https://rysted.netlify.app/)
 
-- The information on my GitHub profile is relative, as not everything we do is uploaded.
+- The information on my GitHub profile is relative, as not everything we do is uploaded, and we often have private projects.
 
 ![](https://komarev.com/ghpvc/?username=Rysted&color=blueviolet&label=PROFILE+VIEWS)
 
@@ -19,10 +19,9 @@ const aboutMe = {
   },
   tools: ["Postman", "Prepros"],
 
-  Languages: ["Typescript", "Javascript", "HTML", "CSS"],
-  Styling: ["TailwindCSS", "Bootstrap"],
+  Languages: ["HTML", "CSS", "Javascript", "Typescript"],
+  Frontend: ["React", "TailwindCSS", "Bootstrap"],
   Backend: ["Node.js", "Express.js", "EJS", "MySQL", "Sequelize"],
-  Framework: ["React"],
   Tools: ["Postman", "Prepros", "Jira", "Git", "Github"],
   Design: ["Figma", "Miro"],
 };
