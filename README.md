@@ -26,7 +26,4 @@ const aboutMe = {
   Design: ["Figma", "Miro"],
 };
 ```
-<img src="https://wakatime.com/share/@Rysted/6677472a-1a95-4219-9e51-8c54dccf1285.svg">
-
-- I integrated Wakatime starting from 2024 to keep a more accurate track of my programming time.
 
