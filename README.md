@@ -13,8 +13,8 @@ const aboutMe = {
     location: "Buenos Aires, Argentina",
   },
   Languages: ["HTML", "CSS", "Javascript", "Typescript"],
-  Frontend: ["React", "TailwindCSS", "Bootstrap"],
-  Backend: ["Node.js", "Express.js", "EJS", "MySQL", "Sequelize"],
+  Frontend: ["React", "TailwindCSS", "Bootstrap", "Scss"],
+  Backend: ["Node.js", "Express.js", "EJS", "MySQL", "Sequelize", "Prisma"],
   Tools: ["Postman", "Prepros", "Jira", "Git", "Github"],
   Design: ["Figma", "Miro"],
 };
