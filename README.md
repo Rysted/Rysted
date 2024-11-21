@@ -12,8 +12,6 @@ const aboutMe = {
     gender: "Male",
     location: "Buenos Aires, Argentina",
   },
-  tools: ["Postman", "Prepros"],
-
   Languages: ["HTML", "CSS", "Javascript", "Typescript"],
   Frontend: ["React", "TailwindCSS", "Bootstrap"],
   Backend: ["Node.js", "Express.js", "EJS", "MySQL", "Sequelize"],
