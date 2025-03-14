@@ -4,19 +4,19 @@
 
 ![](https://komarev.com/ghpvc/?username=Rysted&color=blueviolet&label=PROFILE+VIEWS)
 
-```javascript
-const aboutMe = {
+```typescript
+const aboutMe: AboutMe = {
   person: {
-    name: "Marcelo Sebastian Suarez",
-    occupation: "Full Stack Web Developer </>",
-    gender: "Male",
-    location: "Buenos Aires, Argentina",
+    name: 'Marcelo Sebastian Suarez',
+    occupation: 'Full Stack Web Developer </>',
+    gender: 'Male',
+    location: 'Buenos Aires, Argentina',
   },
-  Languages: ["HTML", "CSS", "Javascript", "Typescript"],
-  Frontend: ["React", "TailwindCSS", "Bootstrap", "Scss"],
-  Backend: ["Node.js", "Express.js", "EJS", "MySQL", "Sequelize", "Prisma"],
-  Tools: ["Postman", "Prepros", "Jira", "Git", "Github"],
-  Design: ["Figma", "Miro"],
+  languages: ['JavaScript', 'TypeScript'],
+  frontend: ['React', 'TailwindCSS', 'Bootstrap', 'SCSS'],
+  backend: ['Node.js', 'Express.js', 'EJS', 'MySQL', 'Sequelize', 'Prisma'],
+  tools: ['Git', 'GitHub', 'Jira', 'Postman', 'Prepros'],
+  design: ['Figma', 'Miro'],
 };
 ```
 
