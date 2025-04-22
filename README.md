@@ -14,8 +14,7 @@ const aboutMe: AboutMe = {
   languages: ['JavaScript', 'TypeScript'],
   frontend: ['React', 'TailwindCSS', 'Bootstrap', 'SCSS', 'Ant Design'],
   backend: ['Node.js', 'Express.js', 'EJS', 'MySQL', 'Sequelize', 'Prisma'],
-  tools: ['Git', 'GitHub', 'Jira', 'Postman', 'Prepros'],
-  design: ['Figma', 'Miro'],
+  tools: ['Git', 'GitHub', 'Jira', 'Postman', 'Prepros', 'Figma']
 };
 ```
 
