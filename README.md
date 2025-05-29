@@ -6,11 +6,6 @@
 
 ```typescript
 const aboutMe: AboutMe = {
-  person: {
-    name: 'Marcelo Sebastian Suarez',
-    occupation: 'Full Stack Web Developer </>',
-    gender: 'Male',
-  },
   languages: ['JavaScript', 'TypeScript'],
   frontend: ['React', 'TailwindCSS', 'Bootstrap', 'SCSS', 'Ant Design'],
   backend: ['Node.js', 'Express.js', 'EJS', 'MySQL', 'Sequelize', 'Prisma'],
